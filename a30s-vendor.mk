@@ -39,8 +39,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a30s/proprietary/vendor/lib/hw/audio.primary.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.exynos7904.so \
     vendor/samsung/a30s/proprietary/vendor/lib/hw/camera.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.exynos7904.so \
     vendor/samsung/a30s/proprietary/vendor/lib/hw/gatekeeper.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.exynos7904.so \
-    vendor/samsung/a30s/proprietary/vendor/lib/hw/gralloc.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.exynos7904.so \
-    vendor/samsung/a30s/proprietary/vendor/lib/hw/hwcomposer.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/hwcomposer.exynos7904.so \
     vendor/samsung/a30s/proprietary/vendor/lib/hw/memtrack.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/memtrack.exynos7904.so \
     vendor/samsung/a30s/proprietary/vendor/lib/hw/sensors.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.exynos7904.so \
     vendor/samsung/a30s/proprietary/vendor/lib/hw/thermal.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/thermal.exynos7904.so \
@@ -59,8 +57,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a30s/proprietary/vendor/lib64/hw/android.hardware.gnss@2.1-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.gnss@2.1-impl.so \
     vendor/samsung/a30s/proprietary/vendor/lib64/hw/camera.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.exynos7904.so \
     vendor/samsung/a30s/proprietary/vendor/lib64/hw/gatekeeper.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gatekeeper.exynos7904.so \
-    vendor/samsung/a30s/proprietary/vendor/lib64/hw/gralloc.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gralloc.exynos7904.so \
-    vendor/samsung/a30s/proprietary/vendor/lib64/hw/hwcomposer.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/hwcomposer.exynos7904.so \
     vendor/samsung/a30s/proprietary/vendor/lib64/hw/memtrack.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/memtrack.exynos7904.so \
     vendor/samsung/a30s/proprietary/vendor/lib64/hw/sensors.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/sensors.exynos7904.so \
     vendor/samsung/a30s/proprietary/vendor/lib64/hw/thermal.exynos7904.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/thermal.exynos7904.so \
